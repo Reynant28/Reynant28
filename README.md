@@ -1,16 +1,36 @@
-## Hi there 👋
+# Hey there! 👋
 
-<!--
-**Reynant28/Reynant28** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm [Reyva](mailto:reyvaaafarysta@gmail.com), a developer from Indonesia.
 
-Here are some ideas to get you started:
+I love building systems that actually work APIs, databases, server logic, and anything that happens behind the scenes.
+Right now, I'm mainly working with Laravel, but I'm slowly expanding into other backend ecosystems like Express and maybe even Next.js later on.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+If something sparks my curiosity, I'll probably turn it into a project.
+So far, I've built apps using Laravel, React + Laravel, and Kotlin.
+
+⚙️ Tech Stack I Enjoy
+
+Backend: Laravel, PHP, MySQL, PostgreSQL (currently learning this)
+
+Frontend: React 
+
+Mobile: Kotlin
+
+Soon Exploring: Express, Next.js
+
+📌 Projects
+
+I’ve built several full-stack and backend-heavy apps, and more are on the way.
+(You’ll probably see them pinned below!)
+
+🌱 What I'm Learning Next
+
+Improving my backend foundations, exploring new frameworks, and leveling up my full-stack skills step by step.
+
+🎯 Fun Facts About Me
+
+I love photography
+
+I'm REALLY into football, F1, and games
+
+I enjoy editing photos (with lightroom) 
