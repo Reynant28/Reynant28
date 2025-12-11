@@ -3,7 +3,7 @@
 I'm [Reyva](mailto:reyvaaafarysta@gmail.com), a developer from Indonesia.
 
 I love building systems that actually work APIs, databases, server logic, and anything that happens behind the scenes.
-Right now, I'm mainly working with Laravel, but I'm slowly expanding into other backend ecosystems like Express and maybe even Next.js later on.
+Right now, I'm mainly working with Laravel, but I have intrest to expanding into other backend ecosystems like Express and maybe even Next.js later on.
 
 If something sparks my curiosity, I'll probably turn it into a project.
 So far, I've built apps using Laravel, React + Laravel, and Kotlin.
